@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: saying hello
-        run: echo"Hello bro"
+        run: echo "Hello bro"
       - name: saying gobye
         run: echo "Done bye bro"
 
